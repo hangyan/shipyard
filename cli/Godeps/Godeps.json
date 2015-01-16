@@ -1,0 +1,53 @@
+{
+	"ImportPath": "github.com/hangyan/shipyard/cli",
+	"GoVersion": "go1.2.1",
+	"Deps": [
+		{
+			"ImportPath": "github.com/Sirupsen/logrus",
+			"Comment": "v0.6.1-10-g6c28e16",
+			"Rev": "6c28e16200e55c2549705ac24ea58976c07f18ac"
+		},
+		{
+			"ImportPath": "github.com/codegangsta/cli",
+			"Comment": "1.2.0-42-gfbda1ce",
+			"Rev": "fbda1ce02d5dabcee952040e5f4025753b6c9ce0"
+		},
+		{
+			"ImportPath": "github.com/hangyan/citadel",
+			"Comment": "beta4-70-g15b1dc4",
+			"Rev": "15b1dc48a766d5f9207cfd50a9332dd1c9be1f23"
+		},
+		{
+			"ImportPath": "github.com/hangyan/go.crypto/bcrypt",
+			"Rev": "f621a64eb141e8f287ea343f79c17fcbbaf59d55"
+		},
+		{
+			"ImportPath": "github.com/hangyan/go.crypto/blowfish",
+			"Rev": "f621a64eb141e8f287ea343f79c17fcbbaf59d55"
+		},
+		{
+			"ImportPath": "github.com/hangyan/go.crypto/ssh/terminal",
+			"Rev": "f621a64eb141e8f287ea343f79c17fcbbaf59d55"
+		},
+		{
+			"ImportPath": "github.com/hangyan/gopass",
+			"Rev": "1ed64ed440e89aaa0aa1a76e37d5302dd397cf07"
+		},
+		{
+			"ImportPath": "github.com/samalba/dockerclient",
+			"Rev": "1b4f01290f3293c934118e51dec542a7ad5d0b58"
+		},
+		{
+			"ImportPath": "github.com/stretchr/objx",
+			"Rev": "cbeaeb16a013161a98496fad62933b1d21786672"
+		},
+		{
+			"ImportPath": "github.com/stretchr/testify/assert",
+			"Rev": "faedd6eb633a4cd77c15f6c9856608701e40d9a2"
+		},
+		{
+			"ImportPath": "github.com/stretchr/testify/mock",
+			"Rev": "faedd6eb633a4cd77c15f6c9856608701e40d9a2"
+		}
+	]
+}

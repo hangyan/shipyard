@@ -1,0 +1,75 @@
+{
+	"ImportPath": "github.com/hangyan/shipyard/controller",
+	"GoVersion": "go1.2.1",
+	"Deps": [
+		{
+			"ImportPath": "github.com/Sirupsen/logrus",
+			"Comment": "v0.6.1-10-g6c28e16",
+			"Rev": "6c28e16200e55c2549705ac24ea58976c07f18ac"
+		},
+		{
+			"ImportPath": "github.com/codegangsta/negroni",
+			"Comment": "v0.1-51-g2b6e86b",
+			"Rev": "2b6e86bff68451fcd38bd9e2da90e0b70e85983d"
+		},
+		{
+			"ImportPath": "github.com/dancannon/gorethink",
+			"Comment": "v0.5.x-9-g16b174b",
+			"Rev": "16b174b489ff37d396a9fa202536c08171717883"
+		},
+		{
+			"ImportPath": "github.com/gorilla/context",
+			"Rev": "50c25fb3b2b3b3cc724e9b6ac75fb44b3bccd0da"
+		},
+		{
+			"ImportPath": "github.com/gorilla/mux",
+			"Rev": "e444e69cbd2e2e3e0749a2f3c717cec491552bbf"
+		},
+		{
+			"ImportPath": "github.com/gorilla/securecookie",
+			"Rev": "f0559d009e6943011cd1ba6eb16195cf5e0ed326"
+		},
+		{
+			"ImportPath": "github.com/gorilla/sessions",
+			"Rev": "aa5e036e6c44aec69a32eb41097001978b29ad31"
+		},
+		{
+			"ImportPath": "github.com/hangyan/citadel",
+			"Comment": "beta4-70-g15b1dc4",
+			"Rev": "15b1dc48a766d5f9207cfd50a9332dd1c9be1f23"
+		},
+		{
+			"ImportPath": "github.com/hangyan/docker/pkg/stdcopy",
+			"Comment": "v1.3.0-907-g7cf1b5d",
+			"Rev": "7cf1b5ddee1848ff3ab1c5847a6c3e301fdc7fd0"
+		},
+		{
+			"ImportPath": "github.com/hangyan/go.crypto/bcrypt",
+			"Rev": "f621a64eb141e8f287ea343f79c17fcbbaf59d55"
+		},
+		{
+			"ImportPath": "github.com/hangyan/go.crypto/blowfish",
+			"Rev": "f621a64eb141e8f287ea343f79c17fcbbaf59d55"
+		},
+		{
+			"ImportPath": "github.com/samalba/dockerclient",
+			"Rev": "1b4f01290f3293c934118e51dec542a7ad5d0b58"
+		},
+		{
+			"ImportPath": "github.com/stretchr/objx",
+			"Rev": "cbeaeb16a013161a98496fad62933b1d21786672"
+		},
+		{
+			"ImportPath": "github.com/stretchr/testify/assert",
+			"Rev": "faedd6eb633a4cd77c15f6c9856608701e40d9a2"
+		},
+		{
+			"ImportPath": "github.com/stretchr/testify/mock",
+			"Rev": "faedd6eb633a4cd77c15f6c9856608701e40d9a2"
+		},
+		{
+			"ImportPath": "gopkg.in/fatih/pool.v2",
+			"Rev": "46cfd0bbfb747fd0c3333d221ba4e3c932cfd6dd"
+		}
+	]
+}
